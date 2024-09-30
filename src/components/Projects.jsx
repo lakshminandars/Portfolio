@@ -145,7 +145,7 @@ function Projects() {
                             />
                             <div className="card-body text-center">
                                 <h6 className='mt-2'>BMI Calculator  <br /> Using HTML & CSS & JAVASCRIPT</h6>
-                                <button className='btn btn-warning fw-bold mt-2'>Know More</button>
+                                <button className='btn btn-warning fw-bold mt-2'>Know More</button> <button className='btn btn-warning fw-bold mt-2'>Live Link</button>
                             </div>
                         </div>
                     </div>
